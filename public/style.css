@@ -1,0 +1,67 @@
+h1, h3, h4 {
+  line-height: 1.4;
+}
+
+p {
+  color: #8b8b8b;
+}
+
+/* BANNER */
+#banner {
+  background-color: #000;
+  color: #FFF;
+  padding: 100px 0 70px 0;
+}
+
+#banner img {
+  width: 100%;
+}
+
+.btn-banner {
+  margin: 8% 3% 5% 0;
+}
+
+/* FEATURES */
+#features {
+  padding: 7% 5%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  margin-bottom: 15px;
+}
+
+/* TESTIMONIALS */
+#testimonials {
+  background-color: #f3f3f3;
+  color: #323338;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+#testimonials img {
+  border-radius: 50%;
+  width: 10%;
+  margin: 20px;
+}
+
+/* PRICES */
+#prices {
+  padding: 5% 15% 8%;
+  color: #323338;
+}
+
+#prices .title {
+  margin-top: 5%;
+}
+
+/* FOOTER */
+#footer {
+  background-color: #f3f3f3;
+  text-align: center;
+  padding: 3% 15%;
+}
